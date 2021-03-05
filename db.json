@@ -1,24 +1,9 @@
 {
-  "govt-links": [
+  "pvt-links": [
     {
       "id": 1,
       "link": "www.google.com",
       "description": "Google Website"
-    },
-    {
-      "link": "sa",
-      "description": "santhosh",
-      "id": 2
-    },
-    {
-      "link": "san",
-      "description": "santhosh",
-      "id": 3
-    },
-    {
-      "link": "san",
-      "description": "santhosh",
-      "id": 4
     }
   ]
 }
